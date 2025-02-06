@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Por qué DeepSeek ha tumbado con su IA a los gigantes de Silicon Valley</title>
+        <link>https://www.ejemplo.com/rss</link>
+        <description>La compañía china ha creado un modelo más barato y eficiente de inteligencia artificial exprimiendo los desarrollos previos.</description>
+        <language>es</language>
+        <pubDate>Tue, 28 Jan 2025 09:00:00 +0000</pubDate>
+        
+ 
+        <item>
+            <title>China inaugura una nueva era de la inteligencia artificial</title>
+            <link>https://elpais.com/economia/2025-02-02/china-inaugura-una-nueva-era-de-la-inteligencia-artificial.html</link>
+            <description>La irrupción de DeepSeek acaba con el dominio estadounidense de la tecnología llamada a definir este siglo, abre el mercado a nuevos actores y plantea dudas sobre qué rumbo tomará la industria a partir de ahora</description>
+            <pubDate>Tue, 28 Jan 2025 09:00:00 +0000</pubDate>
+            <guid>https://elpais.com/economia/2025-02-02/china-inaugura-una-nueva-era-de-la-inteligencia-artificial.html</guid>
+            <category>Tecnología</category>
+        </item><!---->
+
+        <item>
+            <title>GeForce RTX 5060 y GeForce RTX 5060 Ti con conectores de 8 pines, rendimiento y precios</title>
+            <link>https://www.muycomputer.com/2025/02/05/geforce-rtx-5060-y-geforce-rtx-5060-ti-rendimiento-y-precios/</link>
+            <description>Un medio chino, que tiene relación con la ensambladora Zotac, asegura que las GeForce RTX 5060 y GeForce RTX 5060 Ti utilizarán conectores de alimentación de 8 pines, y también ha compartido detalles sobre la fuente de alimentación recomendada para mover estas nuevas tarjetas gráficas de gama media de NVIDIA.</description>
+            <pubDate>Tue, 28 Jan 2025 09:00:00 +0000</pubDate>
+            <guid>https://www.muycomputer.com/2025/02/05/geforce-rtx-5060-y-geforce-rtx-5060-ti-rendimiento-y-precios/</guid>
+            <category>Novedades</category><!---->
+        </item>
+
+        <item>
+            <title>Más del 40% de los europeos carece de habilidades digitales para gestiones online: “No ponen facilidades al ciudadano, sino barreras”</title>
+            <link>https://elpais.com/noticias/informatica/</link>
+            <description>Un grupo de 600 investigadores y asociaciones reclaman a Bruselas que garantice que los servicios esenciales como pagar facturas o pedir cita médica sean accesibles también de forma presencial</description>
+            <pubDate>Tue, 28 Jan 2025 09:00:00 +0000</pubDate>
+            <guid>https://elpais.com/noticias/informatica/</guid>
+            <category>Tecnología</category>
+        </item>
+    </channel>
+</rss>
